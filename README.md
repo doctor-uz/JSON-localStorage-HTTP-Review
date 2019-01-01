@@ -2,7 +2,7 @@
 
 1. Make a JSON validator website. It should have a `<textarea>` where users can input their JSON. After clicking a button a message should appear, telling users if the JSON is valid or not.
 
-   #### My [solution](url).
+   #### My [solution](https://github.com/doctor-uz/JSON-localStorage-HTTP-Review/tree/master/json_validator).
 
 
 
@@ -18,7 +18,7 @@
 
 - If `askForNumber` throws an exception, `translateNumberToGerman` should catch that exception and restart the process.
 
-  #### My [solution](url).
+  #### My [solution](https://github.com/doctor-uz/JSON-localStorage-HTTP-Review/tree/master/ask_for_number).
 
 
 
